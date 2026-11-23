@@ -1,0 +1,47 @@
+{
+  "student_usn": "1MS25CI055",
+  "eval_samples": 200,
+  "unanswerable_in_eval": 98,
+  "rule": {
+    "primary_metric": "f1",
+    "margin_f1_points": 2.0,
+    "max_latency_ratio": 5.0,
+    "tie_breaker": "lower avg_latency_ms"
+  },
+  "A": {
+    "hf_model_id": "deepset/minilm-uncased-squad2",
+    "exact_match": 78.0,
+    "f1": 80.3775,
+    "has_ans_exact": 83.3333,
+    "has_ans_f1": 87.9952,
+    "no_ans_accuracy": 72.449,
+    "abstain_rate": 40.5,
+    "n_zero_f1": 37.0,
+    "avg_latency_ms": 91.8749,
+    "total_inference_s": 18.375
+  },
+  "B": {
+    "hf_model_id": "deepset/roberta-base-squad2",
+    "exact_match": 76.0,
+    "f1": 78.8548,
+    "has_ans_exact": 78.4314,
+    "has_ans_f1": 84.029,
+    "no_ans_accuracy": 73.4694,
+    "abstain_rate": 42.0,
+    "n_zero_f1": 39.0,
+    "avg_latency_ms": 299.2498,
+    "total_inference_s": 59.85
+  },
+  "delta_primary_metric": -1.5227,
+  "latency_ratio_B_over_A": 3.257,
+  "disagreements": 33,
+  "disagreements_B_better": 10,
+  "disagreements_A_better": 16,
+  "winner": "A",
+  "winner_hf_model_id": "deepset/minilm-uncased-squad2",
+  "decision_reason": "Difference -1.52 F1 within margin 2.0; tie-breaker picks faster model A",
+  "run_ids": {
+    "A": "ffa58fb7c7bb47cbb49a25079224ac44",
+    "B": "1f0d86be55b94acca959b2f30c8eb686"
+  }
+}

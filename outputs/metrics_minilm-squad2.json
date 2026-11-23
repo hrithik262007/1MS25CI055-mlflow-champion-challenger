@@ -1,0 +1,12 @@
+{
+  "hf_model_id": "deepset/minilm-uncased-squad2",
+  "exact_match": 78.0,
+  "f1": 80.3775,
+  "has_ans_exact": 83.3333,
+  "has_ans_f1": 87.9952,
+  "no_ans_accuracy": 72.449,
+  "abstain_rate": 40.5,
+  "n_zero_f1": 37.0,
+  "avg_latency_ms": 91.8749,
+  "total_inference_s": 18.375
+}

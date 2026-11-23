@@ -1,0 +1,201 @@
+id,question,is_impossible,reference_answers,prediction,abstained,score,exact,f1,latency_ms
+0,In what conditions were forces first measured historically?,0,"[""static equilibrium"", ""static equilibrium"", ""conditions of static equilibrium"", ""static equilibrium"", ""static equilibrium""]",static equilibrium,0,0.7736,1,1.0,96.04
+1,Who published an error regarding the Himalayan glaciers?,1,[],,1,0.9343,1,1.0,68.17
+2,What is the largest city in all of California?,0,"[""Los Angeles"", ""Los Angeles"", ""Los Angeles""]",Los Angeles (at 3.7 million people) and San Diego,0,0.1486,0,0.3636,59.37
+3,When did Khan formally declare the Yuan dynasty?,0,"[""1271"", ""1271"", ""1271""]",1271,0,0.98,1,1.0,107.95
+4,What news magazine transitioned to being exclusively online in 2009?,1,[],,1,0.9776,1,1.0,110.57
+5,"If q=9 and a=1,2,4,5, 7, or 8, how many wraps would be in a progression?",1,[],infinitely many,0,0.0504,0,0.0,95.86
+6,What is set aside for question periods in the debating chamber?,0,"[""Parliamentary time"", ""Parliamentary time"", ""Parliamentary time""]",Parliamentary time,0,0.9873,1,1.0,100.43
+7,A multi-tape Turing machine requires what type of time for a solution?,0,"[""linear time"", ""linear"", ""linear""]",linear time,0,0.2462,1,1.0,82.4
+8,What percentage of Victorians are Christian?,0,"[""61.1%"", ""61.1%"", ""61.1%""]",61.1%,0,0.8302,1,1.0,64.16
+9,In what year was the university's 5th president granted his position?,0,"[""1929"", ""1929"", ""1929"", ""1929""]",1929,0,0.9792,1,1.0,79.66
+10,Who took Isaacs place as Provost in 2016?,0,"[""Robert Zimmer"", ""Daniel Diermeier"", ""Daniel Diermeier""]",Daniel Diermeier,0,0.9103,1,1.0,87.28
+11,Supplies from Jacksonville were in support of which faction in the Civil War?,0,"[""Confederate"", ""Confederate"", ""the Confederate cause""]",Confederate,0,0.7137,1,1.0,83.47
+12,What became compulsory in Massachusetts in 1976?,1,[],,1,0.9964,1,1.0,69.11
+13,What type of studies do Geochronologists perform?,1,[],,1,0.9069,1,1.0,64.94
+14,What is the most common cause of injury on site?,0,"[""Falls"", ""Falls"", ""Falls""]",Falls,0,0.9722,1,1.0,70.28
+15,Was the Use of the DATANET 1 name correct ,0,"[""use of the name was incorrect all these services were managed by the same people within one department of KPN contributed to the confusion"", ""the name was incorrect"", ""Dutch PTT Telecom""]",Although this use of the name was incorrect,0,0.344,0,0.6,73.15
+16,Who claimed that only two inhabitants per square kilometer could be sustained in the rain forest?,1,[],,1,0.9903,1,1.0,91.69
+17,What did the Taliban want to subject the entire country to?,0,"[""Sharia"", ""an idealized and systematized version of conservative tribal village customs"", ""Sharia""]",Sharia,0,0.804,1,1.0,65.07
+18,"Where does a pathogen come in direct contact with immune cells, antibodies and complement?",1,[],,1,0.8677,1,1.0,132.47
+19,Why is the most recent era expanded in the first scale?,1,[],,1,0.965,1,1.0,88.25
+20,WHat did foreign clones of DATAPAC allow for ,0,"[""A user or host could call a host on a foreign network by including the DNIC of the remote network as part of the destination address"", ""the interconnection of national X.25 networks"", ""interconnection of national X.25 networks""]",Deutsche Bundespost. X.75 and X.121 allowed the interconnection of national X.25 networks,0,0.1336,0,0.625,79.85
+21,In what year did the plague begin in England?,1,[],,1,0.5718,1,1.0,55.89
+22,What other sea had fish larvae accidentially introduced into it?,1,[],,1,0.7093,1,1.0,121.63
+23,Where might the doctor's self-interest be at odds with the patient's self-interest?,0,"[""in obtaining cost-effective medication and avoiding the unnecessary use of medication that may have side-effects"", ""obtaining cost-effective medication"", ""the physician has a financial self-interest in \""diagnosing\"" as many conditions as possible""]",obtaining cost-effective medication and avoiding the unnecessary use of medication that may have side-effects,0,0.1648,0,0.963,70.48
+24,What building from the 19th century was destroyed between the 1930s and 1940s?,1,[],Leopold Kronenberg Palace,0,0.7492,0,0.0,67.16
+25,What are three complexity classes between L and P?,1,[],,1,0.6722,1,1.0,43.93
+26,What is blamed for causing the sharp drop in fish catches in the Black Sea and the Sea of Azov?,0,"[""ctenophore Mnemiopsis leidyi"", ""Mnemiopsis leidyi"", ""the Western Atlantic ctenophore Mnemiopsis leidyi was accidentally introduced""]",Mnemiopsis leidyi,0,0.5251,1,1.0,127.02
+27, What was the Spanish title of Polo's book?,1,[],,1,0.9064,1,1.0,89.49
+28,How many school vouchers were issued by Sweden in 2008?,1,[],,1,0.7651,1,1.0,64.3
+29,Is it easier or harder to change EU law than stay the same?,0,"[""harder"", ""harder"", ""harder"", ""harder""]",harder,0,0.9329,1,1.0,165.62
+30,What percentage of American gas stations were out of fuel in 1973?,1,[],20%,0,0.8746,0,0.0,57.93
+31,What was the first US state to have compulsory education?,0,"[""Massachusetts"", ""Massachusetts"", ""Massachusetts""]",Massachusetts,0,0.9575,1,1.0,69.63
+32,"Who is the author of the book, ""Knowledge and Decisions""?",0,"[""Thomas Sowell"", ""Thomas Sowell"", ""Thomas Sowell""]",Thomas Sowell,0,0.987,1,1.0,80.33
+33,What does a receiver have to be equipped with to view encrypted content?,0,"[""VideoGuard UK"", ""VideoGuard UK"", ""VideoGuard UK""]",VideoGuard UK,0,0.4831,1,1.0,94.35
+34,How many reptiles have been discovered in the Amazon region?,0,"[""378"", ""378"", ""378""]",378,0,0.9147,1,1.0,70.81
+35,What year did Roger de Tosny fail to accomplish what he set out to do?,0,"[""1018"", ""1064"", ""1018""]",1018,0,0.5611,1,1.0,60.77
+36,Under what law is value of a worker determined?,0,"[""supply and demand"", ""law of supply and demand"", ""supply and demand""]",,1,0.2939,0,0.0,114.92
+37,Who influenced Bismark besides his neighbors?,0,"[""Hamburg merchants and traders"", ""Hamburg merchants and traders"", ""Hamburg merchants and traders"", ""Hamburg merchants and traders""]",,1,0.298,0,0.0,60.07
+38,What do capitalist firms substitute equipment for in a Marxian analysis?,0,"[""labor inputs"", ""labor inputs (workers)"", ""labor inputs""]",labor inputs,0,0.4793,1,1.0,77.84
+39,What academy did Tugh Temur found?,0,"[""Academy of the Pavilion of the Star of Literature"", ""Academy of the Pavilion of the Star of Literature"", ""Academy of the Pavilion of the Star of Literature""]",Academy of the Pavilion of the Star of Literature,0,0.7304,1,1.0,86.9
+40,What did the Italian government not fail to do in Francovich v Italy?,1,[],,1,0.9841,1,1.0,152.88
+41,What is the process of vaccination also known as?,0,"[""immunization"", ""immunization"", ""immunization""]",immunization,0,0.989,1,1.0,72.8
+42,Who did not have to develop principles to resolve conflicts of laws between different systems?,1,[],,1,0.7828,1,1.0,342.93
+43,Who took command of French in spring of 1753?,0,"[""Paul Marin de la Malgue"", ""Paul Marin de la Malgue"", ""Paul Marin de la Malgue"", ""Paul Marin de la Malgue"", ""Paul Marin de la Malgue""]",,1,0.2354,0,0.0,121.41
+44,How many of the six total packages available to broadcasters did Setanta give away?,1,[],,1,0.2184,1,1.0,88.67
+45,What was the name given to the regions in which the pro - slavery southerners lived?,0,"[""Cow Counties"", ""Cow Counties"", ""Cow Counties""]",Cow Counties,0,0.5763,1,1.0,98.66
+46,Where is the Autumn Jamboree hosted?,1,[],,1,0.8685,1,1.0,64.42
+47,Who was one French pro-reform Roman Catholic of the 15th century? ,0,"[""Jacques Lefevre"", ""Jacques Lefevre"", ""Jacques Lefevre""]",,1,0.9771,0,0.0,122.53
+48,What did LeGrande write about grammatical niceties?,1,[],,1,0.9915,1,1.0,65.1
+49,How long did plague last in the Ottoman empire?,0,"[""until the second quarter of the 19th century."", ""until the second quarter of the 19th century"", ""until the second quarter of the 19th century""]",until the second quarter of the 19th century,0,0.2823,1,1.0,72.87
+50,What success did Abercrombie gain out of the win at Carillon?,1,[],destroyed Fort Frontenac,0,0.5675,0,0.0,73.86
+51,What did a greedy merchant do to the mermaid?,0,"[""captured"", ""captured the mermaid"", ""captured""]",captured the mermaid,0,0.3991,1,1.0,72.97
+52,How many people in Quzhou are descended from Confucius?,0,"[""30,000"", ""30,000"", ""30,000""]","30,000",0,0.9664,1,1.0,110.43
+53, When did Otto von Bismarck die?,1,[],90,0,0.9564,0,0.0,101.19
+54,What concept did Baran research for the US Air Force?,1,[],distributed adaptive message block switching,0,0.9058,0,0.0,72.95
+55,How was the efficiency of a concept engine typically evaluated?,1,[],duty,0,0.4713,0,0.0,76.05
+56,What battle outside Quebec City did British lose in 1760?,0,"[""Battle of Sainte-Foy"", ""Battle of Sainte-Foy"", ""Sainte-Foy"", ""Battle of Sainte-Foy"", ""Battle of Sainte-Foy""]",Battle of Sainte-Foy,0,0.7068,1,1.0,65.01
+57,What countries use a blue stylized A to signify pharmacy?,1,[],,1,0.993,1,1.0,87.07
+58,Which type of rock cannot be re-melted?,1,[],,1,0.9961,1,1.0,102.85
+59,Where did the residents of Antioch flee to due to the plague?,1,[],the north,0,0.5999,0,0.0,88.02
+60,How does cooling of the local environment affect the mnemiopsis?,0,"[""significantly slowed the animal's metabolism"", ""slowed the animal's metabolism"", ""significantly slowed the animal's metabolism""]",significantly slowed the animal's metabolism,0,0.7097,1,1.0,123.1
+61,Above what horsepower are steam turbines usually more efficient than steam engines that use reciprocating pistons?,0,"[""several hundred"", ""several hundred horsepower"", ""several hundred""]",several hundred,0,0.6471,1,1.0,85.97
+62,When did the the German army re-occupy Britain and France?,1,[],,1,0.6039,1,1.0,76.84
+63,Who is responsible for ensuring the Parliament works smoothly?,0,"[""Presiding Officer"", ""Presiding Officer"", ""the Presiding Officer""]",the Presiding Officer,0,0.5613,1,1.0,79.78
+64,"Other than the Automobile Club of Southern California, what other AAA Auto Club chose to simplify the divide?",0,"[""California State Automobile Association"", ""the California State Automobile Association"", ""California State Automobile Association""]",California State Automobile Association,0,0.5917,1,1.0,84.45
+65,What does the U.S. economic and social model have substantial levels of?,0,"[""social exclusion"", ""social exclusion"", ""social exclusion""]",social exclusion,0,0.9685,1,1.0,96.76
+66,How many roles do the types of B cell have?,1,[],,1,0.9657,1,1.0,93.29
+67,What can be interpreted by individuals to determine if funding for course content is forbidden?,1,[],,1,0.9654,1,1.0,63.03
+68,Which port is United States's third-largest seaport?,1,[],,1,0.2495,1,1.0,74.45
+69,"In 1940, what percentage of the population in Fresno was Asian?",0,"[""2.7%"", ""2.7%"", ""2.7%""]",2.7%,0,0.846,1,1.0,68.53
+70,What is the term that describes the indifference between what higher paid and lower paid professionals earn?,1,[],,1,0.1822,1,1.0,61.31
+71,In what state is Yale located?,1,[],Connecticut,0,0.5995,0,0.0,63.51
+72,What was Houghton's role?,0,"[""a co-chair of TAR WGI"", ""co-chair of TAR WGI"", ""co-chair of TAR WGI""]",co-chair of TAR WGI,0,0.5843,1,1.0,71.56
+73,What is one of the largest and most modern oncological institutions in Europe?,0,"[""Maria Skłodowska-Curie Institute of Oncology"", ""Maria Skłodowska-Curie Institute of Oncology"", ""Maria Skłodowska-Curie Institute of Oncology""]",Maria Skłodowska-Curie Institute of Oncology,0,0.7202,1,1.0,71.85
+74,"During glacial times, where was the mouth of the Rhine located?",0,"[""Brest"", ""Brest, France"", ""offshore of Brest,""]","Brest, France",0,0.4887,1,1.0,104.5
+75,What was lacking in the second assessment report?,1,[],,1,0.9693,1,1.0,128.85
+76,What is an important factor contributing to inequality for individuals?,0,"[""access to education"", ""access to education"", ""access to education""]",variation in individuals' access to education,0,0.8448,0,0.6667,69.45
+77,What is the largest sensory feature of the ctenophora?,0,"[""aboral organ"", ""aboral organ"", ""aboral organ""]",aboral organ,0,0.2284,1,1.0,83.2
+78,Who is required to verify and have existing utility lines marked?,0,"[""contractors"", ""contractors"", ""contractors""]",contractors,0,0.9847,1,1.0,66.8
+79,"Along with electric motors, what type of engines superseded piston steam engines?",0,"[""internal combustion"", ""internal combustion"", ""internal combustion""]",internal combustion engines,0,0.6049,0,0.8,58.53
+80,Which is the largest university press in the South Side?,1,[],,1,0.9789,1,1.0,102.65
+81,What does the inability to separate Islam from Islamism lead many in the West to support?,0,"[""illiberal Islamic regimes"", ""illiberal Islamic regimes"", ""illiberal Islamic regimes""]",illiberal Islamic regimes,0,0.958,1,1.0,72.43
+82,How many sororities belong to the National Panhellenic Conference?,0,"[""Alpha Phi Omega"", ""Four"", ""Four""]",Four,0,0.9543,1,1.0,67.33
+83,What was the only region in Europe not conquered by the Germanic tribes?,0,"[""Muslim Iberia"", ""Muslim Iberia"", ""Muslim Iberia"", ""Muslim Iberia"", ""Muslim Iberia""]",Muslim Iberia,0,0.487,1,1.0,89.64
+84,When did Genghis Khan become Great Khan?,0,"[""1206"", ""1206"", ""1206""]",1206,0,0.9749,1,1.0,107.23
+85,When had the Brotherhood renounced violence as a means of achieving its goals?,0,"[""By the 1970s"", ""the 1970s"", ""1970s""]",1970s,0,0.6017,1,1.0,66.45
+86,"Who wrote the book ""Capital in the Twenty-First Century""?",0,"[""Thomas Piketty"", ""Thomas Piketty"", ""Thomas Piketty""]",Thomas Piketty,0,0.9938,1,1.0,87.99
+87, Where was the FLIS formed?,1,[],Algeria,0,0.908,0,0.0,89.35
+88,What is the city centre of Warsaw called in Polish?,0,"[""Śródmieście"", ""Śródmieście"", ""Śródmieście""]",Śródmieście,0,0.9514,1,1.0,136.99
+89,What magnitude was the 1994 Northridge earthquake?,0,"[""6.7"", ""6.7"", ""6.7""]",6.7,0,0.9133,1,1.0,59.23
+90,What would not create a conflict between a problem X and problem C within the context of reduction?,1,[],,1,0.9945,1,1.0,69.13
+91,Where does the cold water mix with Lake Constance?,0,"[""Rheinbrech"", ""Upper Lake"", ""Rheinrinne""]",,1,0.8731,0,0.0,92.89
+92,What type of number generators make use of military gear?,1,[],,1,0.9716,1,1.0,74.51
+93,In Sept 1760 who negotiated a war from Montreal?,1,[],Governor Vaudreuil,0,0.9605,0,0.0,63.67
+94,Which cidippid is used as a description on ctenophores in most textbooks?,0,"[""Pleurobrachia"", ""Pleurobrachia"", ""Pleurobrachia""]",Pleurobrachia,0,0.4117,1,1.0,73.06
+95,What is the name a a problem that meets Ladder's assertion?,1,[],,1,0.4121,1,1.0,56.22
+96,When did Galor and Zeria show old information about inequality?,1,[],,1,0.9749,1,1.0,94.48
+97,What water is constantly visible along the entire length of the lake?,1,[],Rhine water,0,0.3749,0,0.0,91.68
+98,What will a society with more equality have?,0,"[""higher aggregate utility"", ""population-wide satisfaction and happiness"", ""satisfaction and happiness""]",higher aggregate utility,0,0.8773,1,1.0,104.5
+99,Which party is strongest in Victoria's lower house?,1,[],The Greens,0,0.2602,0,0.0,72.81
+100,What does geometry ramification seek to achieve?,1,[],,1,0.9638,1,1.0,70.77
+101,Who was the first female laureate winner?,1,[],,1,0.8642,1,1.0,70.98
+102,What type of vote must the Council pass in order to approve of any changes recommended by Parliament? ,0,"[""qualified majority"", ""qualified majority"", ""a majority"", ""a majority""]",qualified majority,0,0.6902,1,1.0,170.26
+103,"Though the name was correct, all these services were managed by who?",1,[],,1,0.6807,1,1.0,74.15
+104,Inflammation occurs during sleep times because of the presence of what molecule?,0,"[""melatonin"", ""melatonin"", ""melatonin""]",melatonin,0,0.7005,1,1.0,86.41
+105,How high is the highest point in Berlin?,1,[],,1,0.2342,1,1.0,124.95
+106,What kind of rivalry do Oxford and Cambridge have?,1,[],,1,0.2071,1,1.0,55.58
+107,When was liquid oxygen developed for commercial use?,0,"[""1895"", ""1895"", ""1895"", ""1895"", ""1895""]",1895,0,0.9735,1,1.0,65.06
+108,What department in the U.S. spearheaded the efforts against Islamism? ,0,"[""State"", ""State Department"", ""State""]",State Department,0,0.6716,1,1.0,78.01
+109,What had the Yuan used to print its money before bronze plates?,0,"[""woodblocks"", ""woodblocks"", ""woodblocks""]",woodblocks,0,0.9654,1,1.0,69.03
+110,What are colonial powers blamed for?,0,"[""ended the true Islamic system"", ""working through Turkish modernist Mustafa Kemal Atatürk"", ""abolition of the Ottoman Caliphate""]",,1,0.3007,0,0.0,64.41
+111,When was oil priced based on pound sterling?,1,[],,1,0.9793,1,1.0,99.2
+112,What song did Bob Gallion write?,1,[],,1,0.6502,1,1.0,65.26
+113,As of 2014 how quickly is building material being printed?,1,[],,1,0.8719,1,1.0,83.3
+114,In what century was South Africa established as a country?,1,[],,1,0.6306,1,1.0,54.92
+115,What did the Edict of Nantes encourage in Catholic-controlled areas of France?,1,[],,1,0.9739,1,1.0,69.1
+116,At what rate is Orange County developing its business centers?,0,"[""rapidly"", ""rapidly"", ""rapidly""]",rapidly,0,0.968,1,1.0,43.98
+117,Vice President Agnew describes Civil disobedience in what activities?,0,"[""muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins"", ""civil disobedience"", ""muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins"", ""muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins"", ""activities of muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins""]","muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins",0,0.6555,1,1.0,63.99
+118,How many Huguenots were killed in Bordeaux?,1,[],,1,0.9975,1,1.0,90.59
+119,Which archaeologist proposed the idea that the Amazon rainforest couldn't sustain large populations? ,0,"[""Betty Meggers"", ""Betty Meggers"", ""Betty Meggers""]",Betty Meggers,0,0.9827,1,1.0,92.35
+120,What is R-OC-R?,1,[],,1,0.3265,1,1.0,129.95
+121,What did al-Gama'a al-Islamiyya use to get its way?,0,"[""violence"", ""violence"", ""violence""]",violence,0,0.9373,1,1.0,96.04
+122,Which languages used the Phags-pa script?,0,"[""Mongolian, Tibetan, and Chinese"", ""Mongolian, Tibetan, and Chinese"", ""Mongolian, Tibetan, and Chinese""]","Mongolian, Tibetan, and Chinese",0,0.8816,1,1.0,89.81
+123,What did BSkyB name their interactive service?,0,"[""Sky Active"", ""Open"", ""Sky Active""]",Open,0,0.4372,1,1.0,78.17
+124, What religions did Tugh Temur reject?,1,[],,1,0.9983,1,1.0,86.03
+125,How much British military was in South America at start of War?,1,[],,1,0.9565,1,1.0,56.3
+126,The strife between races in Canada is a unique form of what?,1,[],,1,0.9325,1,1.0,134.25
+127,What could be attributed to gravity acceleration around the Earth?,0,"[""the Moon"", ""the mass () and the radius () of the Earth"", ""force of gravity"", ""the same force of gravity if the acceleration due to gravity decreased as an inverse square law.""]",,1,0.9584,0,0.0,57.78
+128,Who does Cambridge say the expansion will benefit?,1,[],"not only the school, but surrounding community",0,0.3897,0,0.0,83.04
+129," Europe first colonized the Americas, then Asia, but what continent was fourth?",1,[],Africa,0,0.761,0,0.0,70.93
+130,The traveling salesman problem is an example of what type of problem?,0,"[""A function problem"", ""function"", ""function problem""]",function problem,0,0.48,1,1.0,46.02
+131,What act sets forth the functions of the Scottish Parliament?,0,"[""Scotland Act 1998"", ""The Scotland Act 1998"", ""The Scotland Act 1998""]",The Scotland Act 1998,0,0.5637,1,1.0,96.6
+132,How long was Germany occupied by Poland?,1,[],4 August 1915 until November 1918,0,0.5198,0,0.0,69.45
+133, What did the Gulf War do on purpose in the early 1990s?,1,[],to put an end to Saddam Hussein's occupation of Kuwait,0,0.2019,0,0.0,66.06
+134,"In between French and British, what groups never controlled land?",1,[],,1,0.9979,1,1.0,75.67
+135,What happens when B cells and T cells are deactivated?,1,[],,1,0.9969,1,1.0,63.35
+136,How many years did it take for the Black Death to spread throughout Europe?,1,[],,1,0.9309,1,1.0,125.98
+137,What are the three main sources of European Union law?,0,"[""primary law, secondary law and supplementary law"", ""primary law, secondary law and supplementary law"", ""primary law, secondary law and supplementary law"", ""primary law, secondary law and supplementary law""]","primary law, secondary law and supplementary law",0,0.9459,1,1.0,65.01
+138,What were mid ocean ridges and high regions of geologic features called?,1,[],divergent boundaries,0,0.9537,0,0.0,99.85
+139,What percentage of Australia's dairy farms are found in Victoria?,1,[],60%,0,0.9348,0,0.0,77.41
+140,What plans of the British did this attach on Oneida Carry set back?,0,"[""hopes for campaigns on Lake Ontario, and endangered the Oswego garrison"", ""campaigns on Lake Ontario, and endangered the Oswego garrison"", ""campaigns on Lake Ontario"", ""campaigns on Lake Ontario"", ""hopes for campaigns on Lake Ontario""]",campaigns on Lake Ontario,0,0.5353,1,1.0,88.07
+141,What native chief travelled to French fort and helped Marin?,1,[],Tanaghrisson,0,0.3032,0,0.0,242.18
+142,What portion of households in Jacksonville have only one person?,0,"[""29.7%"", ""29.7%"", ""29.7%""]",29.7%,0,0.2281,1,1.0,132.68
+143,Who began a program of church reform in the 1100s,1,[],,1,0.9874,1,1.0,105.38
+144,How many homes did the Alta Vista Tract have five years after Billings & Meyering acquired it?,0,"[""267"", ""267"", ""267""]",,1,0.4815,0,0.0,146.54
+145,After what year was compounding frequently used in marine engines?,0,"[""1880"", ""1880"", ""1880""]",1880,0,0.9637,1,1.0,55.25
+146,What supplanted Frame Relay and X.25 ,0,"[""supplanted by the Internet Protocol (IP) at the network layer, and the Asynchronous Transfer Mode (ATM) and or versions of Multi-Protocol Label Switching"", ""Internet Protocol (IP)"", ""Internet Protocol""]",the Internet Protocol,0,0.5196,1,1.0,483.44
+147, Where was the Song dynasty's capital?,1,[],Hangzhou,0,0.9883,0,0.0,86.87
+148,"In addition to endowments and tuition, how do boarding schools cover their operating costs?",0,"[""fundraising"", ""fundraising drives"", ""fundraising drives""]",,1,0.6532,0,0.0,67.24
+149,What type of sanctions has the US directed at Iran?,0,"[""economic"", ""economic"", ""economic""]",economic,0,0.7958,1,1.0,65.56
+150, What Han Chinese leader rejected the Mongols?,1,[],,1,0.7332,1,1.0,104.01
+151,When was al-Nimeiry overthrown?,0,"[""1985"", ""1985"", ""1985""]",1985,0,0.9779,1,1.0,76.42
+152,What does the City Council divide itself into?,0,"[""committees"", ""committees"", ""committees""]",committees,0,0.715,1,1.0,62.25
+153, What doesn't Yeke Mongghul Ulus mean?,1,[],,1,0.9965,1,1.0,146.86
+154,What was not originally theorised about a free trade area?,1,[],,1,0.5206,1,1.0,284.46
+155,What did Jerne develop on the basis of CST?,1,[],,1,0.9963,1,1.0,84.21
+156,How many Huguenots fled to England?,1,[],,1,0.6776,1,1.0,77.55
+157,What ocean has large and small interior valleys?,1,[],Pacific Ocean,0,0.4445,0,0.0,50.12
+158,What is the approximate condenser temperature in a turbine?,0,"[""30 °C"", ""30 °C"", ""30 °C""]",30 °C,0,0.8659,1,1.0,73.19
+159,"If there is a conflict between EU law and national law, which law take precedence?",0,"[""EU law"", ""EU law has primacy"", ""EU law has primacy"", ""EU law""]",EU law,0,0.9526,1,1.0,352.05
+160,Imperialism is responsible for the rapid spread of what?,0,"[""technologies and ideas"", ""technologies and ideas"", ""technologies and ideas"", ""technologies and ideas"", ""technologies and ideas.""]",technologies and ideas,0,0.9198,1,1.0,77.52
+161,Whwn forces are at right ngles to each other what can they be broken down to?,0,"[""independent components"", ""independent components"", ""independent components"", ""independent components""]",independent components,0,0.8771,1,1.0,112.94
+162,What is the major tributary of Lake Constance?,1,[],river Aare,0,0.8499,0,0.0,87.0
+163,What did Abu al-Rayhan al-Biruni base his writings on?,1,[],the geology of India,0,0.4901,0,0.0,118.29
+164,How did the United States plan to subdue non-imperialistic tendencies?,1,[],,1,0.9645,1,1.0,121.59
+165,When did the United States withdraw from the Bretton Woods Accord?,0,"[""On August 15, 1971"", ""August 15, 1971"", ""August 15, 1971"", ""August 15, 1971"", ""August 15, 1971""]","August 15, 1971",0,0.9745,1,1.0,106.09
+166,What are two reasons Conservatives went to jail?,1,[],,1,0.9886,1,1.0,78.49
+167, Who has the Islamic Liberation Party never attempted to assassinate?,1,[],,1,0.9966,1,1.0,94.45
+168,How many missles were at the nuclear test site?,1,[],13,0,0.5819,0,0.0,94.26
+169,What is the term for an Indian private school?,0,"[""independent"", ""independent schools"", ""independent schools""]",independent schools,0,0.8738,1,1.0,92.85
+170,What company was formed by the merger of Sky Television and British Satellite Broadcasting?,0,"[""BSkyB"", ""BSkyB"", ""BSkyB""]",BSkyB,0,0.9517,1,1.0,58.34
+171,What protein does Staphylococcus aureus produce to make antibodies ineffective?,0,"[""protein A"", ""G"", ""Streptococcus (protein G)""]",protein A),0,0.5637,1,1.0,135.12
+172,How much success didn't this expedition with Braddock find?,1,[],,1,0.9975,1,1.0,68.08
+173,What do the membership of the committees reflect?,0,"[""balance of parties"", ""balance of parties across Parliament"", ""the balance of parties across Parliament""]",the balance of parties across Parliament,0,0.4362,1,1.0,60.56
+174,What Huguenot church was established in Norwich?,1,[],,1,0.9536,1,1.0,86.41
+175,Where was Parliament's temporary home whilst the permanent building was being built?,0,"[""General Assembly Hall of the Church of Scotland"", ""General Assembly Hall of the Church of Scotland"", ""the General Assembly Hall of the Church of Scotland""]",General Assembly Hall of the Church of Scotland on the Royal Mile in Edinburgh,0,0.4023,0,0.7368,67.44
+176,Who voted for Jacksonville's annexation?,1,[],,1,0.6606,1,1.0,56.61
+177,The flushing action of what expels pathogens from the eyes?,0,"[""tears"", ""tears"", ""tears""]",,1,0.9635,0,0.0,84.99
+178,What animal sometimes swims in the Rhine?,1,[],,1,0.5635,1,1.0,73.62
+179,What pope as a native of Poland?,0,"[""John Paul II"", ""John Paul II"", ""John Paul II""]",John Paul II,0,0.9186,1,1.0,60.08
+180,Which conference do the teams in southern California play in?,0,"[""Pac-12"", ""the Pac-12"", ""Pac-12""]",Pac-12,0,0.4789,1,1.0,37.39
+181,Who is the sole governing authority capable of initiating legislative proposals?,0,"[""the Commission"", ""The European Commission"", ""the Commission"", ""the Commission""]",The European Commission,0,0.3213,1,1.0,173.68
+182,What is the largest metropolitan area in Florida and the Southeast?,1,[],,1,0.563,1,1.0,69.71
+183,What company was never involved with NDS?,1,[],,1,0.9989,1,1.0,65.12
+184,These five computer sales and service centers are seen as what?,1,[],,1,0.8846,1,1.0,80.85
+185,What helps the interior designers during integration?,1,[],,1,0.827,1,1.0,51.96
+186,Was city has a tropical climate?,1,[],Jacksonville has a humid subtropical climate,0,0.1887,0,0.0,60.47
+187,How many times did the plague visit Baghdad?,1,[],,1,0.7033,1,1.0,71.65
+188,By which year did the American cars mpg start to improve?,0,"[""1985"", ""1985"", ""1985"", ""1985"", ""1985""]",1985,0,0.9241,1,1.0,110.86
+189,What has the university held since 1963 where large teams find items from a list?,1,[],,1,0.9544,1,1.0,90.17
+190,When was the University Library closed?,1,[],,1,0.9988,1,1.0,73.1
+191,When was the mass high school education movement?,0,"[""from 1910–1940"", ""1910–1940"", ""1910–1940""]",1910–1940,0,0.5905,1,1.0,96.91
+192,What is one thing that can prevent non-fatal injuries?,1,[],Proper safety equipment,0,0.2662,0,0.0,72.51
+193,In which case did the Court of Justice state that refusal to admit a lawyer to the Belgian bar because he did not have Belgian heritage wasn't able to be justified?,0,"[""Reyners v Belgium"", ""Reyners v Belgium the Court of Justice"", ""Reyners v Belgium""]",Reyners v Belgium,0,1.9287,1,1.0,303.94
+194,Beginning in what year was Harvard on top of the World Reputation Rankings?,0,"[""2011"", ""2011"", ""2011""]",2011,0,0.9492,1,1.0,111.34
+195,What drove residents to quieter suburban housing?,0,"[""highways"", ""construction of highways"", ""The construction of highways""]",construction of highways,0,0.2312,1,1.0,83.5
+196,What is a scientific device that manipulates symbols contained on a strip of tape?,1,[],,1,0.9418,1,1.0,97.73
+197, What policy took away Britain dominance in world trade?,1,[],,1,0.8512,1,1.0,89.72
+198,What was the first steam powered device used commercially?,0,"[""water pump"", ""water pump"", ""vacuum"", ""water pump""]",water pump,0,0.5075,1,1.0,90.23
+199,"If there is no shared physical medium, how are the packets delivered?",1,[],,1,0.6867,1,1.0,65.17
