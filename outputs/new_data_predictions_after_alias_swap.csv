@@ -1,0 +1,9 @@
+id,question,expected_answer,champion_answer,champion_score,champion_f1,champion_version,champion_hf_model_id
+1,Where is Ramaiah Institute of Technology located?,MSR Nagar,MSR Nagar,0.7535,1.0,2,deepset/roberta-base-squad2
+2,In which year was MSRIT founded?,1962,1962,0.9943,1.0,2,deepset/roberta-base-squad2
+3,Near which lunar region did Chandrayaan-3 land?,near the lunar south pole,south pole,0.6451,0.67,2,deepset/roberta-base-squad2
+4,What was the name of the Chandrayaan-3 lander?,Vikram,Vikram,0.9935,1.0,2,deepset/roberta-base-squad2
+5,How much did the Chandrayaan-3 mission cost?,(no answer),(no answer),0.8267,1.0,2,deepset/roberta-base-squad2
+6,Which river flows past Hampi?,Tungabhadra River,Tungabhadra River,0.7827,1.0,2,deepset/roberta-base-squad2
+7,Who was the last ruler of the Vijayanagara Empire?,(no answer),(no answer),0.9942,1.0,2,deepset/roberta-base-squad2
+8,What does an MLflow registry alias let a script do?,always gets whichever version currently holds that alias,always gets whichever version currently holds that alias,0.1926,1.0,2,deepset/roberta-base-squad2

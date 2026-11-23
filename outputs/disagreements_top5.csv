@@ -1,0 +1,6 @@
+id,question,reference,pred_A_minilm,f1_A,pred_B_roberta,f1_B,comment
+170,What company was formed by the merger of Sky Television and British Satellite Broadcasting?,BSkyB,BSkyB,1.0,(no answer),0.0,"Unusual wording ('equal merger') made RoBERTa abstain, but MiniLM found the span directly after it."
+142,What portion of households in Jacksonville have only one person?,29.7%,29.7%,1.0,7.9%,0.0,Two percentages sit side by side; RoBERTa took the 'living alone 65+' figure instead of one-person households.
+110,What are colonial powers blamed for?,"abolition of the Ottoman Caliphate, ended the true Islamic system, working through Turkish modernist Mustafa Kemal Atatürk",(no answer),0.0,ended the true Islamic system,1.0,"Long, opinion-heavy paragraph: MiniLM abstained, but RoBERTa found one of the three accepted spans."
+68,Which port is United States's third-largest seaport?,(no answer),(no answer),1.0,Port of Jacksonville,0.0,"Unanswerable trap: the text says Florida's third-largest seaport, not the USA's. RoBERTa fell for it; MiniLM correctly abstained."
+71,In what state is Yale located?,(no answer),Connecticut,0.0,(no answer),1.0,Unanswerable: the paragraph mentions Connecticut only for the regatta. MiniLM answered from a nearby word; RoBERTa abstained correctly.
